@@ -10,3 +10,5 @@ submit your comments for review along with any votes (+1, etc).
 ## Status
 
 Very early stages.
+
+[badge-license]: https://img.shields.io/badge/license-GPL_3-green.svg
